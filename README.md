@@ -24,6 +24,14 @@
 
   By catching issues earlier, PAYKX helps reduce failed payments, trapped liquidity, and operational overhead — especially as more payments become agent-driven.
 
+  ## Live Demo
+
+  Try the current version of PAYKX here:
+
+  **[→ Live Demo](https://api.paykx.co.uk)**
+
+  > The system is currently running in **demo/shadow mode**. All data is simulated for evaluation purposes.
+
   ## Current Status
 
   - **Stage**: Pre-pilot (Demo / Shadow Mode)
@@ -40,14 +48,6 @@
   - Corridor health and compliance evaluation
   - Support for idempotent and secure API requests
   - Designed to work alongside existing payment infrastructure
-
-  ## Live Demo
-
-  Try the current version of PAYKX here:
-
-  **[→ Live Demo](https://api.paykx.co.uk)**
-
-  > The system is currently running in **demo/shadow mode**. All data is simulated for evaluation purposes.
 
   ## Screenshots
 
