@@ -41,13 +41,6 @@
   - Support for idempotent and secure API requests
   - Designed to work alongside existing payment infrastructure
 
-  ## Tech Stack
-
-  - **Frontend**: React 18 + Vite + TypeScript + shadcn/ui
-  - **Backend**: Express + TypeScript + Drizzle ORM
-  - **Database**: PostgreSQL
-  - **Other**: Zod, TanStack Query, Recharts
-
   ## Live Demo
 
   Try the current version of PAYKX here:
@@ -66,6 +59,13 @@
 
   ### Verification Result
   ![Result](screenshots/result.png)
+
+  ## Tech Stack
+
+  - **Frontend**: React 18 + Vite + TypeScript + shadcn/ui
+  - **Backend**: Express + TypeScript + Drizzle ORM
+  - **Database**: PostgreSQL
+  - **Other**: Zod, TanStack Query, Recharts
 
   ## Roadmap
 
