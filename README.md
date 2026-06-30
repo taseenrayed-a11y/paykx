@@ -31,7 +31,7 @@
   - **Testing**: Validated using 750,000+ synthetic transactions in the FCA Digital Sandbox
   - **Live Demo**: [https://api.paykx.co.uk](https://api.paykx.co.uk)
 
-  > **Note**: The system is currently running in demo/shadow mode. No real transactions are processed.
+  > **Note**: The system is currently running in **demo/shadow mode**. No real transactions are processed.
 
   ## Key Features
 
